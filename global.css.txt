@@ -1,0 +1,11 @@
+Please open your global.css and insert the following code.
+Engl.: (Templates & Styles -> Themes -> Choose your Theme -> global.css -> Edit Stylesheet: Advanced Mode)
+German: (Templates & Styles -> Themes -> Wähle dein Theme -> global.css -> Stylesheet bearbeiten: Fortgeschrittene Methode)
+(This is needed to change the background color of the "Best Answer"!):
+
+
+/* Best Answer background-color */
+.post_content_ba {
+	padding: 9px 10px 5px 10px;
+	background: #D6ECA6 !important;
+}
